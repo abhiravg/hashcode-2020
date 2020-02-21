@@ -1,0 +1,7 @@
+File a total score = 21
+File b total score = 5822900
+File c total score = 1480105
+File d total score = 5028530
+File e total score = 3324283
+File f total score = 1832987
+Final score = 17488826
